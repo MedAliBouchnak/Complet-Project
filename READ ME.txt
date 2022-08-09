@@ -1,0 +1,12 @@
+****Add interactive buttons using JavaScript:
+At shop.html page >> it have cart buttons to add products to the cart
+
+
+****Now that form we required in the previous checkpoint, now you have to validate it using JavaScript:
+At contact.html page>> there is some conditions on the informations
+
+****Make that carrousel you created in HTML, interactive, navigate through a list of images by clicking the button right or left:
+At about.html page 
+
+
+the first 4 items img in the shop lead to sproduct.html page 
